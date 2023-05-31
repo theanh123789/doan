@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f8fda5d2-a0ac-4894-86d6-846a7032af7e": {
+      "ProjectGuid": "f8fda5d2-a0ac-4894-86d6-846a7032af7e",
+      "DisplayName": "QuanLyCuaHangBanDungCuTheThao",
+      "ColorIndex": 0
+    },
+    "48318a0e-432c-49c5-80db-4a3c67a35576": {
+      "ProjectGuid": "48318a0e-432c-49c5-80db-4a3c67a35576",
+      "DisplayName": "BLL",
+      "ColorIndex": 1
+    },
+    "4e7d3afa-01f2-467b-bd4d-571c96cc973a": {
+      "ProjectGuid": "4e7d3afa-01f2-467b-bd4d-571c96cc973a",
+      "DisplayName": "DTO",
+      "ColorIndex": 2
+    },
+    "25a5558a-cc4a-42b6-991c-a94e02c4077b": {
+      "ProjectGuid": "25a5558a-cc4a-42b6-991c-a94e02c4077b",
+      "DisplayName": "DAO",
+      "ColorIndex": 3
+    },
+    "94df488b-b0a9-46d7-92d3-fecf3b695c86": {
+      "ProjectGuid": "94df488b-b0a9-46d7-92d3-fecf3b695c86",
+      "DisplayName": "TOOL",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

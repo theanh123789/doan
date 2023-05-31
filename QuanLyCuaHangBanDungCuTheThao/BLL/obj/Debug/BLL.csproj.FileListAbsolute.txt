@@ -1,0 +1,63 @@
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\bin\Debug\BLL.exe.config
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\bin\Debug\BLL.exe
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\bin\Debug\BLL.pdb
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\bin\Debug\DAO.exe
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\bin\Debug\DTO.exe
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\bin\Debug\TOOL.exe
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\bin\Debug\DAO.pdb
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\bin\Debug\DAO.exe.config
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\bin\Debug\DTO.exe.config
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\bin\Debug\TOOL.pdb
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\bin\Debug\TOOL.exe.config
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\obj\Debug\BLL.exe
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\obj\Debug\BLL.pdb
+C:\Users\nguye\OneDrive\Máy tính\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\BLL.exe.config
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\BLL.exe
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\BLL.pdb
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\DAO.exe
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\DTO.exe
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\TOOL.exe
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\DAO.pdb
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\DAO.exe.config
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\DTO.exe.config
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\TOOL.pdb
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\TOOL.exe.config
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.exe
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.pdb
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\BLL.exe.config
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\BLL.exe
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\BLL.pdb
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\DAO.exe
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\DTO.exe
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\TOOL.exe
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\DAO.pdb
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\DAO.exe.config
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\DTO.pdb
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\DTO.exe.config
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\TOOL.pdb
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\bin\Debug\TOOL.exe.config
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.exe
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\BLL\obj\Debug\BLL.pdb

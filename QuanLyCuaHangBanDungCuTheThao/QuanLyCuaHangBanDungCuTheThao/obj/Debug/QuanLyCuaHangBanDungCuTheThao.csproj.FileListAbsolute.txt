@@ -1,0 +1,66 @@
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\QuanLyCuaHangBanDungCuTheThao.exe.config
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\QuanLyCuaHangBanDungCuTheThao.exe
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\QuanLyCuaHangBanDungCuTheThao.pdb
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\BLL.exe
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\DTO.exe
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\TOOL.exe
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\DAO.exe
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\BLL.pdb
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\BLL.exe.config
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\DTO.exe.config
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\TOOL.pdb
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\TOOL.exe.config
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\DAO.pdb
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\DAO.exe.config
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.exe
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.pdb
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.fQuanLyNhanVien.resources
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.TrangChu.resources
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.TRangchucs.resources
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.fNhaCC.resources
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.fhoaDonBan.resources
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.fKhachHang.resources
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.fSanPham.resources
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.FhoaDonNhap.resources
+C:\Users\nguye\OneDrive\Máy tính\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.FdoanhThuBan.resources
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\QuanLyCuaHangBanDungCuTheThao.exe.config
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\QuanLyCuaHangBanDungCuTheThao.exe
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\QuanLyCuaHangBanDungCuTheThao.pdb
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\BLL.exe
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\DTO.exe
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\TOOL.exe
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\DAO.exe
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\BLL.pdb
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\BLL.exe.config
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\DTO.pdb
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\DTO.exe.config
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\TOOL.pdb
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\TOOL.exe.config
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\DAO.pdb
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\bin\Debug\DAO.exe.config
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.csproj.AssemblyReference.cache
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.csproj.SuggestedBindingRedirects.cache
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.FdoanhThuBan.resources
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.fhoaDonBan.resources
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.FhoaDonNhap.resources
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.fKhachHang.resources
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.fNhaCC.resources
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.fQuanLyNhanVien.resources
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.fSanPham.resources
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.Properties.Resources.resources
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.TrangChu.resources
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.TRangchucs.resources
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.csproj.GenerateResource.cache
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.csproj.CoreCompileInputs.cache
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.csproj.CopyComplete
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.exe
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.pdb
+D:\cửa hàng bán dụng cụ thể thao\QuanLyCuaHangBanDungCuTheThao\QuanLyCuaHangBanDungCuTheThao\obj\Debug\QuanLyCuaHangBanDungCuTheThao.DangNhap.resources
